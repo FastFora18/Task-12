@@ -216,10 +216,11 @@ namespace NotificationGateway
         }
     }
 }
-## Результат выполнения:
-<img width="1458" height="852" alt="1" src="https://github.com/user-attachments/assets/1fe74bb1-9b95-4ff3-b436-9afe744e798e" />
-<img width="1462" height="857" alt="2" src="https://github.com/user-attachments/assets/cfa76dcf-4a2d-4de8-a3f9-e2af8727f803" />
-<img width="1458" height="806" alt="3" src="https://github.com/user-attachments/assets/f6a1dad1-a707-4d7f-aa27-36e4b94a35aa" />
-<img width="1460" height="849" alt="4" src="https://github.com/user-attachments/assets/df4d0bfa-d38b-43b8-8fa1-d56067e2feb2" />
-<img width="1459" height="853" alt="5" src="https://github.com/user-attachments/assets/192119db-2f40-4e8e-bf1a-854adb648597" />
 ``
+## Результат выполнения:
+<img width="1458" height="852" alt="1" src="https://github.com/user-attachments/assets/115c0bc6-70b8-49fd-b6fe-5fb4fa98dde3" />
+<img width="1462" height="857" alt="2" src="https://github.com/user-attachments/assets/e9923ffc-f1a2-49f8-85c2-8170e2d38137" />
+<img width="1458" height="806" alt="3" src="https://github.com/user-attachments/assets/c85a872e-3b73-4749-a328-2c4c38f06257" />
+<img width="1460" height="849" alt="4" src="https://github.com/user-attachments/assets/8cbf2966-f973-4266-ab06-530013f9ee98" />
+<img width="1459" height="853" alt="5" src="https://github.com/user-attachments/assets/aedc44c3-8c9a-429f-9ffe-8ecd0a622d28" />
+
