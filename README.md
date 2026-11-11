@@ -216,7 +216,7 @@ namespace NotificationGateway
         }
     }
 }
-``
+```
 ## Результат выполнения:
 <img width="1458" height="852" alt="1" src="https://github.com/user-attachments/assets/115c0bc6-70b8-49fd-b6fe-5fb4fa98dde3" />
 <img width="1462" height="857" alt="2" src="https://github.com/user-attachments/assets/e9923ffc-f1a2-49f8-85c2-8170e2d38137" />
