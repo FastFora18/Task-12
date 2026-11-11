@@ -219,13 +219,9 @@ namespace NotificationGateway
 ```
 ## Результат выполнения:
 <img width="1458" height="852" alt="1" src="https://github.com/user-attachments/assets/115c0bc6-70b8-49fd-b6fe-5fb4fa98dde3" />
-## Результат выполнения:
 <img width="1462" height="857" alt="2" src="https://github.com/user-attachments/assets/e9923ffc-f1a2-49f8-85c2-8170e2d38137" />
-## Результат выполнения:
 <img width="1458" height="806" alt="3" src="https://github.com/user-attachments/assets/c85a872e-3b73-4749-a328-2c4c38f06257" />
-## Результат выполнения:
 <img width="1460" height="849" alt="4" src="https://github.com/user-attachments/assets/8cbf2966-f973-4266-ab06-530013f9ee98" />
-## Результат выполнения:
 <img width="1459" height="853" alt="5" src="https://github.com/user-attachments/assets/aedc44c3-8c9a-429f-9ffe-8ecd0a622d28" />
 
 // Делал Аристов Максим
