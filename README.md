@@ -48,6 +48,7 @@ namespace NotificationGateway
         }
     }
 }
+
 // part 2
 namespace NotificationGateway
 {
@@ -81,6 +82,7 @@ namespace NotificationGateway
         }
     }
 }
+
 // part 3
 namespace NotificationGateway
 {
@@ -138,6 +140,7 @@ namespace NotificationGateway
         }
     }
 }
+
 // part 4
 namespace NotificationGateway
 {
@@ -175,6 +178,7 @@ namespace NotificationGateway
         }
     }
 }
+
 // part 5
 namespace NotificationGateway
 {
